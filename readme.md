@@ -1,4 +1,7 @@
 # Finished Essays
+
+This is a repository for finished drafts that I am ready to share publicly.
+
 | Date | Title | Description  |
 | --- | --- | --- |
 | 1.26.21 | [the Prison of American Politics](finishedEssays/thePrisonofAmericanPolitics.md) | Essay discussing the growing demand for authoritarianism in American Political Culture. |
